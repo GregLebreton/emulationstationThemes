@@ -3,9 +3,9 @@
 [!theme](docs/ES-logo.png)
 
 <p float="left">
-  <img src="custom/gen/art/gen_art.png" width="100" />
-  <img src="custom/snes/art/snes_art.png" width="100" /> 
-  <img src="custom/psx/art/psx_art.png" width="100" />
+  <img src="custom/megadrive/art/gen_art.png" width="300" />
+  <img src="custom/snes/art/snes_art.png" width="300" /> 
+  <img src="custom/psx/art/psx_art.png" width="300" />
 </p>
 
 
