@@ -1,11 +1,11 @@
 ### Thèmes custom full HD ###
 
-[!theme](custom/snes/art/snes_art.png)
+[!theme](docs/ES-logo.png)
 
 <p float="left">
-  <img src="docs/img1.png" width="100" />
-  <img src="docs/img2.png" width="100" /> 
-  <img src="docs/img3.png" width="100" />
+  <img src="custom/gen/art/gen_art.png" width="100" />
+  <img src="custom/snes/art/snes_art.png" width="100" /> 
+  <img src="custom/psx/art/psx_art.png" width="100" />
 </p>
 
 
@@ -15,36 +15,36 @@ Full HD themes for Emulationstation frontend.
 
 ### THEMES
 
-[x] Nes
-[x] Game & watch
-[x] Gameboy
-[x] Snes
-[x] Nintendo64
-[x] Gamecube
-[ ] Nintendo DS
-[x] Psx
-[x] Ps2
-[x] Psp
-[x] Atari Lynx
-[x] Atari jaguar
-[x] Atari jaguar CD
-[x] Sega master system
-[x] Sega Genesis
-[ ] Sega Gamegear
-[x] Sega CD
-[x] Sega 32x
-[ ] Sega Saturn
-[ ] Sega Dreamcast
-[x] Mame
-[x] Neogeo
-[x] Pc DOS
-[ ] Apple II
-[ ] Pcengine
-[ ] Atari 5200
-[ ] Atari 7800
-[ ] Gameboy advance
-[ ] Scummvm
-[ ] Zx spectrum
+- [x] Nes
+- [x] Game & watch
+- [x] Gameboy
+- [x] Snes
+- [x] Nintendo64
+- [x] Gamecube
+- [ ] Nintendo DS
+- [x] Psx
+- [x] Ps2
+- [x] Psp
+- [x] Atari Lynx
+- [x] Atari jaguar
+- [x] Atari jaguar CD
+- [x] Sega master system
+- [x] Sega Genesis
+- [ ] Sega Gamegear
+- [x] Sega CD
+- [x] Sega 32x
+- [ ] Sega Saturn
+- [ ] Sega Dreamcast
+- [x] Mame
+- [x] Neogeo
+- [x] Pc DOS
+- [ ] Apple II
+- [ ] Pcengine
+- [ ] Atari 5200
+- [ ] Atari 7800
+- [ ] Gameboy advance
+- [ ] Scummvm
+- [ ] Zx spectrum
 
 ## INSTALLATION
 
@@ -61,6 +61,6 @@ Copy custom in C:/Users/YourUser/.emulaionstation/themes/
 
 ## TODO
 
-[ ] Missing themes
-[ ] Add music
-[ ] Change font
+- [ ] Missing themes
+- [ ] Add music
+- [ ] Change font
