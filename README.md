@@ -6,6 +6,7 @@
   <img src="custom/megadrive/art/gen_art.png" width="300" />
   <img src="custom/snes/art/snes_art.png" width="300" /> 
   <img src="custom/psx/art/psx_art.png" width="300" />
+  <img src="custom/ps2/art/ps2_art.png" width="300" />
 </p>
 
 
