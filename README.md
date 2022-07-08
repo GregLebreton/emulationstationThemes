@@ -1,6 +1,6 @@
 ### Thèmes custom full HD ###
 
-[!theme](docs/ES-logo.png)
+![logo](docs/ES-logo.png)
 
 <p float="left">
   <img src="custom/megadrive/art/gen_art.png" width="300" />
