@@ -22,7 +22,6 @@ Full HD themes for Emulationstation frontend.
 - [x] Snes
 - [x] Nintendo64
 - [x] Gamecube
-- [ ] Nintendo DS
 - [x] Psx
 - [x] Ps2
 - [x] Psp
@@ -31,37 +30,59 @@ Full HD themes for Emulationstation frontend.
 - [x] Atari jaguar CD
 - [x] Sega master system
 - [x] Sega Genesis
-- [ ] Sega Gamegear
-- [x] Sega CD
+- [x] Sega CD -> controller to add
 - [x] Sega 32x
-- [ ] Sega Saturn
-- [ ] Sega Dreamcast
 - [x] Mame
 - [x] Neogeo
 - [x] Pc DOS
-- [ ] Apple II
+- [ ] Favorites
+- [ ] Moonlight
 - [ ] Pcengine
+- [ ] Atari ST
+- [ ] Sega Gamegear
+- [ ] Sega Saturn
+- [ ] Sega Dreamcast
+- [ ] Nintendo Family Disk System
+- [ ] Nintendo DS
+- [ ] Gameboy advance
+- [ ] Gameboy color
+- [ ] Apple II
+- [ ] Amiga 600
 - [ ] Atari 5200
 - [ ] Atari 7800
-- [ ] Gameboy advance
+- [ ] Commodore
 - [ ] Scummvm
 - [ ] Zx spectrum
+- [ ] Solarus
 
 ## INSTALLATION
 
-### LINUX
+### THEMES
+
+#### LINUX
 
 ```bash
 cd emulationstationThemes/
-cp -r ./custom/ recalbox/share/system/.emulationstation/themes/
+cp -r ./greg-theme/ recalbox/share/themes/
 ```
 
-### WINDOWS
+#### WINDOWS
 
-Copy custom in C:/Users/YourUser/.emulaionstation/themes/
+Copy greg-theme folder in C:/Users/YourUser/.emulaionstation/themes/
+
+### MUSIC
+
+```bash
+cd emulationstationThemes/
+cp -r ./greg-theme/ /recalbox/share/music/
+```
+
+#### WINDOWS
+
+Copy music folder in C:/Users/YourUser/.emulaionstation/music/
 
 ## TODO
 
 - [ ] Missing themes
-- [ ] Add music
+- [x] Add music
 - [ ] Change font
